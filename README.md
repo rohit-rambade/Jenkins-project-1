@@ -1,7 +1,6 @@
-# Jenkins Installation!!!!!!!!
 
-Install Jenkins
-![image](https://user-images.githubusercontent.com/86614477/172049659-2bef61d8-e5ec-4c71-8a64-ace3fea91a3e.png)
+# Jenkins Installation!!!!!!!!
+Install Jenkins![image](https://user-images.githubusercontent.com/86614477/172049659-2bef61d8-e5ec-4c71-8a64-ace3fea91a3e.png)
 Start Jenkins Service
 ![image](https://user-images.githubusercontent.com/86614477/172049687-05c3350a-1977-4589-a949-a4a0841f7e7c.png)
 Jenkins is now running 
